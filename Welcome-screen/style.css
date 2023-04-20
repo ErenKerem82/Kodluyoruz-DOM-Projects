@@ -1,0 +1,12 @@
+body {
+    background-color: #3f3c3b;
+    /* margin-left: 25%; */
+    color: rgb(202, 91, 11);
+    text-align: center;
+}
+
+
+h1 {
+    font-family: serif;
+    text-shadow: 2px 2px 2px black;
+}
